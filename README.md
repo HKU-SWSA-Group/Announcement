@@ -1,6 +1,7 @@
 ## HKU-SWSA-Group
 
-### :tada: Latest!
+### :tada: Latest!  
+One paper has been accepted in *The Lancet Psychiatry*
 
 ### :notebook: Group Members
 #### Supervisor
