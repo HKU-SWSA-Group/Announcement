@@ -1,4 +1,4 @@
-## HKU-SWSA-Group
+## HKU SWSA Group
 
 ### :tada: Latest!  
 One paper has been accepted in *The Lancet Psychiatry*
