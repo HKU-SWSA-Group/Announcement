@@ -1,7 +1,7 @@
 ## HKU SWSA Group
 
 ### :tada: Latest!  
-**Dec. 2019** One paper has been accepted in *The Lancet Psychiatry*
+**Dec. 2019** [One paper](https://discovery.ucl.ac.uk/id/eprint/10084915/) has been accepted in *The Lancet Psychiatry*
 
 ### :notebook: Group Members
 #### Supervisor
