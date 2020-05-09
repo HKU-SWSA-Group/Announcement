@@ -24,6 +24,13 @@ Structure Example
 - You can login in this account and edit all the repositories easily.
 - You can also download Git package in your own computer and use [`git clone`](https://www.yiibai.com/git/git_clone.html) 
 and [`git push`](https://www.yiibai.com/git/git_push.html) commands to "pull" and "push" the repositories.
+```
+e.g.   
+git clone git@github.com:HKU-SWSA-Group/Machine-Learning-Materials.git
+(Required to save your public key into this account to establish ssh connection)
+git clone https://github.com/HKU-SWSA-Group/Machine-Learning-Materials.git
+(Required to input username and password of this account)
+```
 ## What is important?
 - Please get familiar with Git, GitHub and Markdown firstly. (Find a useful Markdown guide [here](https://www.markdowntutorial.com/lesson/1/))
 - Please contribute to the content according to the content structure.
