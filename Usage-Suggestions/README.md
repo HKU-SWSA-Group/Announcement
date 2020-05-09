@@ -8,7 +8,7 @@ It is designed for coordinating work among programmers, but it can be used to tr
 Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 - You can find a basic tutorial of Git [here](https://www.liaoxuefeng.com/wiki/896043488029600).
 ## What is the structure of the content?
-- The `Repositories` part stores all created repostories, which are like project folders in our desktops. Each repository should have a unique theme(Announcement, Books-Papers-Ideas, etc.). You can add a new repository easily by clicking button *New*. Please avoid creating repositories with similar themes and make sure to set repositories **private**. 
+- The `Repositories` part stores all created repositories, which are like project folders in our desktops. Each repository should have a unique theme(Announcement, Books-Papers-Ideas, etc.). You can add a new repository easily by clicking button *New*. Please avoid creating repositories with similar themes and make sure to set repositories **private**. 
 - Within each repository, there are individual folders and a public `README.md` file. You can create a folder with your username and store your resources inside it. Afterwards, you should edit the `README.md` file with writing descriptions and attaching links to your shared resources. 
 
 Structure Example  
@@ -31,7 +31,11 @@ and [`git push`](https://www.yiibai.com/git/git_push.html) commands to "pull" an
 ```
 [The Elements of Statistical Learning_ Data Mining, Inference, and Prediction](https://drive.google.com/file/d/16yTMOIxzJgGpAU3MUPuFpBOVobNgGzbB/view?usp=sharing)  
 ```
-- Please ensure the commit history to be clear with avoiding unnecessary commites and writing commite notes. 
+- Please ensure the commit history to be clear with avoiding unnecessary commits and writing commit notes. 
+- Please invite your personal account to access our private repositories. The instructions is described as follows.
+```
+In each private repository: Settings --> Manage access --> Invite a collaborator
+```
 
 :partying_face: *Let's enrich this account together!*
 
